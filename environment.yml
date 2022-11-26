@@ -88,7 +88,7 @@ dependencies:
   - idna=3.4
   - importlib-metadata=5.1.0
   - importlib_resources=5.10.0
-  - ipykernel=6.18.0
+  - ipykernel=6.*
   - ipython=8.6.0
   - ipython_genutils=0.2.0
   - jedi=0.18.2

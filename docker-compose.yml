@@ -9,5 +9,5 @@ services:
           - ./data:/home/mambauser/data
           - ./notebooks:/home/mambauser/notebooks
         ports:
-          - 8887:8888
+          - 8888:8888
         container_name: GIS-pydaybcn2022
